@@ -1,0 +1,4 @@
+1. Get user with user id
+2. If have a user ,then destructured user information, which want to change
+3. Afer change infromation ,then save user.
+4. After saving these infromation,then store these new values in original values.

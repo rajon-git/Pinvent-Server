@@ -1,0 +1,4 @@
+1. Get user token from user cookies
+2. If have a token then validate that, else throw error
+3. After verify token with Jwt_Secret .
+4. If have verify token then throw success,or throw error

@@ -1,0 +1,8 @@
+1. receive require option from user 
+2. validate them 
+ ..if there aren't filled required options,then throw error.
+ ..if password less then throw error
+ ..if user(email) not found,throw error
+3.If they are validate ,then create a user
+4. After create user,then set a token with user cookies
+5. then destructure data tham from user,and response 201

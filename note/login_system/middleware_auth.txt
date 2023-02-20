@@ -1,0 +1,4 @@
+1. Get user token from user cookies
+2. If havn't token throw error
+3. After verify token with Jwt_Secret ,then find user id with this token.
+4. If have user id then store user in req.user and throw next(),or throw error

@@ -1,0 +1,7 @@
+1. receive email and password from user
+2.then validate email and password
+..if there is no email or password ,then throw error
+..if havn't user ,throw error
+3.Compare given password and user password whose save in db.
+4.If email and password correct ,then set a token over user cookies
+5. then response 200
